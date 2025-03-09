@@ -61,7 +61,7 @@ Feel free to contribute by forking the repository and submitting a pull request.
 
 📝 Author
 
-Your Name – Sandeep-mehta-IITP
+Sandeep-mehta-IITP
 
 📜 License
 
